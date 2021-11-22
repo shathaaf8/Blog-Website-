@@ -1,0 +1,46 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.jumbotron {
+    
+    font-family: 'Genos', sans-serif; 
+  }
+  #aboutus{
+    font-family: 'Genos', sans-serif; 
+    font-size: 30px;
+  }
+.vision{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+.vir{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;  
+}
+
+.our-values{
+    font-family: 'Playfair Display', serif;
+   font-size: 18px;  
+}
+.miss{
+ font-family: 'Playfair Display', serif;
+   font-size: 18px; 
+} 
+.mission{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;  
+}
+.commentss{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-align: center;  
+}
+.item h4 {
+    font-family: 'Playfair Display', serif;
+}
+#contact{
+    font-family: 'Playfair Display', serif;
+}
+  
+  
